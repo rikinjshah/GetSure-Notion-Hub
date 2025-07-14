@@ -1,0 +1,225 @@
+[
+  {
+    "title": "Initial Cold Call Script",
+    "description": "Opening script for first-time prospects who requested information",
+    "tags": ["call", "opening"],
+    "icon": "📞",
+    "cover": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=1200",
+    "when_to_use": "Use when calling leads who have expressed interest in final expense information through online forms, direct mail response, or referrals",
+    "script_blocks": [
+      {
+        "type": "opening",
+        "label": "Warm Opening",
+        "content": "Hi [Name], this is [Your Name] with [Company]. How are you doing today?\n\n[PAUSE FOR RESPONSE]\n\nI'm calling because you recently expressed interest in learning about final expense insurance. Is this still something you'd like information about?\n\n[PAUSE FOR CONFIRMATION]"
+      },
+      {
+        "type": "permission",
+        "label": "Getting Permission",
+        "content": "Great! I appreciate your time today. Before I share some information with you, let me ask - what prompted you to look into this type of coverage?\n\n[LISTEN TO THEIR RESPONSE]\n\nI understand. Many people in your situation are looking for a way to make sure their family isn't burdened with funeral costs. That's exactly what final expense insurance is designed for."
+      },
+      {
+        "type": "time_request",
+        "label": "Time Commitment",
+        "content": "Would you have about 10 minutes for me to explain how this works and see if it might be a good fit for your situation?\n\n[IF YES: Continue to needs discovery]\n[IF BUSY: 'I completely understand. When would be a better time for you? I can call back at your convenience.']"
+      }
+    ],
+    "tips": [
+      "Use their name within the first 30 seconds to create familiarity",
+      "Pause after asking if they're still interested - let them confirm",
+      "Listen carefully to their motivation and reference it throughout the call",
+      "Match their energy level and pace of speaking",
+      "If they say they're busy, always offer to reschedule rather than rush"
+    ],
+    "common_responses": [
+      {
+        "response": "I'm not interested anymore",
+        "handling": "I understand - may I ask what changed? Sometimes people think this is more complicated or expensive than it actually is."
+      },
+      {
+        "response": "How did you get my number?",
+        "handling": "You filled out a form requesting information about final expense insurance. I'm following up to provide that information."
+      },
+      {
+        "response": "Is this a sales call?",
+        "handling": "I'm calling to provide the information you requested about final expense insurance. My job is to help you understand how it works so you can decide if it's right for your situation."
+      }
+    ]
+  },
+  {
+    "title": "Professional Voicemail Script",
+    "description": "Compelling voicemail message that encourages callbacks",
+    "tags": ["voicemail", "follow-up"],
+    "icon": "🎙️",
+    "cover": "https://images.unsplash.com/photo-1589903308904-1010c2294adc?w=1200",
+    "when_to_use": "When prospect doesn't answer your call - designed to encourage callback rather than sound sales-y",
+    "script_blocks": [
+      {
+        "type": "identification",
+        "label": "Clear Identification",
+        "content": "Hi [Name], this is [Your Name] with [Company Name]."
+      },
+      {
+        "type": "reason",
+        "label": "Reason for Call",
+        "content": "I'm calling about the final expense information you requested. I have some good news about coverage options that might work well for your situation."
+      },
+      {
+        "type": "callback_info",
+        "label": "Callback Information",
+        "content": "My direct number is [Phone Number]. I'll try you again tomorrow, but feel free to call me back at your convenience."
+      },
+      {
+        "type": "closing",
+        "label": "Professional Closing",
+        "content": "Again, that's [Your Name] at [Phone Number]. Have a great day!"
+      }
+    ],
+    "tips": [
+      "Keep it under 30 seconds total",
+      "Mention something specific to their inquiry to show legitimacy",
+      "Give your phone number twice - once fast, once slow",
+      "Sound upbeat and helpful, not desperate or pushy",
+      "Don't oversell in the voicemail - save details for conversation",
+      "Always mention you'll try again so they know you're persistent but professional"
+    ],
+    "variations": [
+      {
+        "version": "Follow-up Voicemail",
+        "content": "Hi [Name], this is [Your Name] following up about the final expense coverage we discussed. I wanted to make sure you had all the information you needed to make a decision. Please give me a call at [number] when you have a few minutes."
+      },
+      {
+        "version": "Information Voicemail",
+        "content": "Hi [Name], this is [Your Name] with [Company]. I have the final expense information you requested and wanted to go over a few options that might work for your budget. Please call me back at [number] when it's convenient."
+      }
+    ]
+  },
+  {
+    "title": "Follow-Up Text Message",
+    "description": "Professional text for prospects who haven't responded to calls",
+    "tags": ["text", "follow-up"],
+    "icon": "💬",
+    "cover": "https://images.unsplash.com/photo-1512941675444-2bc4ad5a26ce?w=1200",
+    "when_to_use": "24-48 hours after initial contact attempt, and only if they've opted in to texting or provided a mobile number",
+    "script_blocks": [
+      {
+        "type": "greeting",
+        "label": "Professional Greeting",
+        "content": "Hi [Name], this is [Your Name] from [Company]."
+      },
+      {
+        "type": "reference",
+        "label": "Reference Previous Contact",
+        "content": "I called about your final expense insurance inquiry. I found some great options that could work for your budget."
+      },
+      {
+        "type": "choice",
+        "label": "Give Them Options",
+        "content": "Would you prefer I call you back or would you like to call me at [Phone Number]?"
+      },
+      {
+        "type": "closing",
+        "label": "Friendly Closing",
+        "content": "Thanks!\n[Your Name]"
+      }
+    ],
+    "tips": [
+      "Only text if they've given permission or it's a mobile number they provided",
+      "Keep it brief and professional - this isn't a social media message",
+      "Give them options for how to respond (call back vs. call you)",
+      "Don't text multiple times without a response - it becomes spam",
+      "Always include your phone number for easy callback",
+      "Use proper grammar and spelling - you're representing your company"
+    ],
+    "follow_up_sequence": [
+      {
+        "timing": "Day 1",
+        "message": "Initial text as scripted above"
+      },
+      {
+        "timing": "Week 1",
+        "message": "Hi [Name], wanted to follow up on final expense coverage. Any questions I can answer? [Phone number]"
+      },
+      {
+        "timing": "Month 1",
+        "message": "Hi [Name], checking in about final expense insurance. Still interested in learning more? [Phone number]"
+      }
+    ]
+  },
+  {
+    "title": "Warm Lead Script",
+    "description": "Script for leads from referrals or previous customers",
+    "tags": ["call", "referral"],
+    "icon": "🤝",
+    "cover": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=1200",
+    "when_to_use": "When calling prospects who were referred by existing clients or who have some connection to your business",
+    "script_blocks": [
+      {
+        "type": "opening",
+        "label": "Referral Opening",
+        "content": "Hi [Name], this is [Your Name] with [Company]. [Referrer Name] suggested I give you a call about final expense insurance. How are you doing today?"
+      },
+      {
+        "type": "referrer_connection",
+        "label": "Establish Connection",
+        "content": "[Referrer Name] mentioned that you might be interested in learning about protecting your family from funeral costs. Is that something you've been thinking about?"
+      },
+      {
+        "type": "permission",
+        "label": "Get Permission",
+        "content": "I helped [Referrer Name] get coverage that gives them real peace of mind. Would you like me to explain how it works and see if something similar might make sense for your situation?"
+      }
+    ],
+    "tips": [
+      "Always mention the referrer's name early in the conversation",
+      "Reference what you did for the referrer to build credibility",
+      "Ask permission before launching into your presentation",
+      "Use the referrer's satisfaction as social proof",
+      "Be prepared to answer questions about the referrer's experience"
+    ],
+    "referrer_phrases": [
+      "I just helped [Name] get $15,000 of coverage for about $85 per month",
+      "[Name] was so happy with their coverage that they suggested I call you",
+      "[Name] mentioned you might have similar concerns about protecting your family",
+      "After I helped [Name] with their final expense coverage, they thought you might be interested"
+    ]
+  },
+  {
+    "title": "Appointment Setting Script",
+    "description": "Script for scheduling formal presentations rather than selling on first call",
+    "tags": ["call", "appointment"],
+    "icon": "📅",
+    "cover": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=1200",
+    "when_to_use": "When leads prefer appointments, when dealing with couples, or when initial call timing isn't ideal for full presentation",
+    "script_blocks": [
+      {
+        "type": "opening",
+        "label": "Professional Opening",
+        "content": "Hi [Name], this is [Your Name] with [Company]. I'm calling about the final expense information you requested. Do you have just a quick minute?"
+      },
+      {
+        "type": "brief_overview",
+        "label": "Quick Overview",
+        "content": "I specialize in helping people your age protect their families from funeral costs with affordable final expense insurance. Rather than try to explain everything over the phone right now, I'd prefer to schedule a time when I can give you my full attention and answer all your questions properly."
+      },
+      {
+        "type": "appointment_request",
+        "label": "Schedule Request",
+        "content": "Would you prefer a morning or afternoon appointment? I have some time available [Day] at [Time] or [Day] at [Time]. Which works better for you?"
+      }
+    ],
+    "tips": [
+      "Keep the initial call short - just enough to build interest",
+      "Position the appointment as benefiting them (full attention, detailed answers)",
+      "Give specific time options rather than asking when they're available",
+      "Confirm the appointment with date, time, and your phone number",
+      "Follow up with a text or email confirmation"
+    ],
+    "appointment_confirmation": [
+      "Perfect! I have you down for [Day] at [Time].",
+      "I'll call you at [Phone Number] - is that still the best number?",
+      "The conversation usually takes about 15-20 minutes.",
+      "I'll send you a quick text reminder the day before.",
+      "Do you have any initial questions I can answer when we talk?"
+    ]
+  }
+]

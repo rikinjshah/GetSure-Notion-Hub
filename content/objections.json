@@ -1,0 +1,248 @@
+[
+  {
+    "title": "It's too expensive",
+    "description": "Price concerns about premium affordability",
+    "tags": ["price", "budget"],
+    "icon": "💸",
+    "cover": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200",
+    "what_they_mean": "They're worried about fitting another monthly payment into their budget, or they don't see the value relative to the cost.",
+    "emotional_drivers": [
+      "Fear of financial strain",
+      "Uncertainty about value",
+      "Fixed income concerns",
+      "Priority confusion"
+    ],
+    "rebuttal_strategies": [
+      "Break down cost to daily amount (less than coffee)",
+      "Compare to other monthly expenses they don't question",
+      "Emphasize that premiums never increase",
+      "Show cost of funeral vs. premium payments over time",
+      "Offer different coverage amounts to fit budget",
+      "Use the 'cost of waiting' calculation"
+    ],
+    "sample_responses": [
+      {
+        "situation": "Initial price shock",
+        "response": "I understand price is important. Let's look at this investment—for about $2.50 per day, you can ensure your family has $15,000 for your final expenses. That's less than most people spend on coffee, but it guarantees your family won't face a $10,000+ bill when they're grieving."
+      },
+      {
+        "situation": "Budget concerns",
+        "response": "You're right to be budget-conscious. Let me ask you this: what would be easier for you—finding $85 per month now, or asking your family to find $10,000 all at once when they're dealing with grief? Most of my clients tell me that once they set up automatic payments, they don't even notice it."
+      },
+      {
+        "situation": "Value questioning",
+        "response": "I hear this concern often. When you consider that the average funeral costs $9,000 and this guarantees $15,000 for less than $100 monthly, you're actually getting tremendous value. Even if you pay premiums for 20 years, your family still receives more than you paid in."
+      }
+    ],
+    "proof_elements": [
+      "Daily cost breakdown comparison",
+      "Funeral cost vs. premium investment chart",
+      "Never-increasing premium guarantee",
+      "Return on investment calculation"
+    ],
+    "variations": [
+      "I can't afford that right now",
+      "That's more than I want to spend",
+      "I'm on a fixed income",
+      "I need to think about the cost",
+      "That seems like a lot of money"
+    ]
+  },
+  {
+    "title": "I need to talk to my spouse/family",
+    "description": "Delay tactic to avoid making immediate decision or genuine need for family input",
+    "tags": ["delay", "family", "decision"],
+    "icon": "👥",
+    "cover": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200",
+    "what_they_mean": "They either want to delay the decision, feel pressured, or genuinely believe family input is necessary for this decision.",
+    "emotional_drivers": [
+      "Fear of making wrong decision alone",
+      "Respect for spouse's opinion",
+      "Procrastination tendency",
+      "Feeling pressured"
+    ],
+    "rebuttal_strategies": [
+      "Acknowledge the importance of family input",
+      "Schedule a three-way call with spouse",
+      "Provide materials to share with family",
+      "Address the real concern behind the delay",
+      "Set a specific follow-up time",
+      "Create urgency around protection gap"
+    ],
+    "sample_responses": [
+      {
+        "situation": "Wants spouse input",
+        "response": "That makes perfect sense—this affects your whole family. Would it be helpful if I called back when you're both available? I'm happy to explain everything to both of you and answer any questions your spouse might have."
+      },
+      {
+        "situation": "Procrastination delay",
+        "response": "I completely understand wanting to discuss this together. Let me ask you this: what questions do you think they'll have? I can make sure to address those concerns now, and then you'll have all the information you need for your discussion."
+      },
+      {
+        "situation": "Family consultation",
+        "response": "Family input is important for a decision like this. Here's what I'll do—let me email you a summary of everything we discussed so you have all the details to share with them. When would be a good time for me to follow up after you've had that conversation?"
+      }
+    ],
+    "proof_elements": [
+      "Three-way call availability",
+      "Information packet for sharing",
+      "Testimonials from couples",
+      "Family discussion guide"
+    ],
+    "variations": [
+      "I need to discuss this with my children",
+      "Let me run this by my financial advisor",
+      "I want to sleep on it",
+      "I never make decisions on the phone",
+      "We make financial decisions together"
+    ]
+  },
+  {
+    "title": "I already have life insurance",
+    "description": "Belief that existing coverage is sufficient for final expenses",
+    "tags": ["need", "comparison", "coverage"],
+    "icon": "📄",
+    "cover": "https://images.unsplash.com/photo-1554224154-22dec7ec8818?w=1200",
+    "what_they_mean": "They don't understand the difference between general life insurance and final expense coverage, or they assume all life insurance serves the same purpose.",
+    "emotional_drivers": [
+      "Feeling already protected",
+      "Confusion about coverage types",
+      "Fear of over-insuring",
+      "Satisfaction with current agent"
+    ],
+    "rebuttal_strategies": [
+      "Ask about their current coverage details",
+      "Explain the difference between term and final expense",
+      "Show how final expense complements existing coverage",
+      "Discuss what happens when term expires",
+      "Focus on immediate cash needs vs. long-term benefits",
+      "Address the specific purpose difference"
+    ],
+    "sample_responses": [
+      {
+        "situation": "Term life coverage",
+        "response": "That's great that you're already thinking about life insurance. Tell me about your current coverage—is it term or permanent? Most term policies are designed for income replacement while you're working, but final expense is specifically for immediate costs that come up right away when someone passes."
+      },
+      {
+        "situation": "Large existing policy",
+        "response": "Existing life insurance is wonderful for your family's long-term needs. Final expense is different—it's specifically designed for immediate costs like funeral expenses that need to be paid right away, before any other insurance proceeds are available."
+      },
+      {
+        "situation": "Work-provided coverage",
+        "response": "Work life insurance is a great benefit, but there are two things to consider: first, it usually ends when you retire, and second, it's typically not designed for final expenses. Final expense insurance is specifically for immediate costs your family faces in the first few weeks after you pass away."
+      }
+    ],
+    "proof_elements": [
+      "Coverage comparison chart",
+      "Purpose differentiation table",
+      "Timeline of when different benefits pay",
+      "Complementary coverage explanation"
+    ],
+    "variations": [
+      "My work provides life insurance",
+      "I have a big life insurance policy already",
+      "My term life covers everything",
+      "I don't need more insurance",
+      "I'm already paying for life insurance"
+    ]
+  },
+  {
+    "title": "I don't trust insurance companies",
+    "description": "General skepticism about insurance industry reliability and claim payment",
+    "tags": ["trust", "credibility"],
+    "icon": "🤔",
+    "cover": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200",
+    "what_they_mean": "They've had bad experiences with insurance companies, heard negative stories, or have general skepticism about the industry's reliability.",
+    "emotional_drivers": [
+      "Previous bad experiences",
+      "Fear of being taken advantage of",
+      "Skepticism about claim payment",
+      "General distrust of financial institutions"
+    ],
+    "rebuttal_strategies": [
+      "Acknowledge their concerns as valid",
+      "Share company ratings and stability information",
+      "Explain regulatory protections and guarantees",
+      "Use testimonials and success stories",
+      "Focus on specific company reputation",
+      "Discuss state guarantee funds"
+    ],
+    "sample_responses": [
+      {
+        "situation": "General distrust",
+        "response": "I understand that concern completely—trust is everything in this business. Let me share some information about our company's track record. We've been paying claims for over 75 years and have an A+ rating with AM Best, which is the gold standard for insurance company ratings."
+      },
+      {
+        "situation": "Claim payment fears",
+        "response": "You're smart to be cautious about claims. Here's what's helped other clients feel more confident: our state has a guaranty fund that protects policyholders, and final expense claims are actually the easiest claims insurance companies handle. There's rarely any investigation or dispute because the amounts are smaller and the purpose is clear."
+      },
+      {
+        "situation": "Previous bad experience",
+        "response": "I'm sorry you had a bad experience before. That's exactly why I work with this particular company—they have a reputation for straightforward policies and fast claim payment. Would it help if I showed you some recent testimonials from families who received their benefits?"
+      }
+    ],
+    "proof_elements": [
+      "Company financial ratings",
+      "Claims payment statistics",
+      "State regulatory protections",
+      "Customer testimonials",
+      "Complaint ratio data"
+    ],
+    "variations": [
+      "Insurance companies don't pay claims",
+      "You'll find a way not to pay",
+      "Insurance is a scam",
+      "I've been burned before",
+      "How do I know you'll be around?"
+    ]
+  },
+  {
+    "title": "I'm healthy - I don't need this yet",
+    "description": "Belief that insurance isn't needed while in good health",
+    "tags": ["need", "health", "timing"],
+    "icon": "💪",
+    "cover": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200",
+    "what_they_mean": "They don't see the urgency because they feel healthy now, or they don't understand that good health is actually the best time to get insurance.",
+    "emotional_drivers": [
+      "Feeling invincible",
+      "Procrastination",
+      "Misunderstanding of insurance timing",
+      "Optimism bias"
+    ],
+    "rebuttal_strategies": [
+      "Praise them for their good health",
+      "Explain that now is the best time to get coverage",
+      "Discuss how health can change unpredictably",
+      "Show benefits of applying while healthy",
+      "Use stories of people who waited too long",
+      "Create urgency around rate guarantees"
+    ],
+    "sample_responses": [
+      {
+        "situation": "Feeling too young/healthy",
+        "response": "That's wonderful that you're in good health! That's actually the perfect time to get this coverage—while you can qualify for the best rates and immediate benefits. The challenge is that health can change quickly and unpredictably, and once it does, this protection becomes much harder to get."
+      },
+      {
+        "situation": "No urgency felt",
+        "response": "Your good health is a blessing, and I hope it continues for many years. Here's what I've learned after helping hundreds of families: the people who benefit most from final expense insurance are those who get it while they're healthy. Many of my clients wish they had gotten coverage sooner when their health changed unexpectedly."
+      },
+      {
+        "situation": "Procrastination",
+        "response": "I understand feeling like there's plenty of time. Let me share something that might surprise you: most of my clients who apply are healthy when they get coverage. They're not buying it because they think something will happen soon—they're buying it because they're smart enough to protect their family while they can still qualify."
+      }
+    ],
+    "proof_elements": [
+      "Health change statistics",
+      "Rate guarantee while healthy",
+      "Stories of declined applications",
+      "Immediate vs. graded benefits comparison"
+    ],
+    "variations": [
+      "I'm only [young age]",
+      "I have plenty of time for this",
+      "I'll worry about this when I'm older",
+      "My family has good genes",
+      "Nothing's going to happen to me soon"
+    ]
+  }
+]

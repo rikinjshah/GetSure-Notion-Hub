@@ -1,0 +1,113 @@
+{
+  "faq_database": {
+    "title": "Final Expense FAQs",
+    "icon": "❓",
+    "cover": "https://images.unsplash.com/photo-1434626881859-194d67b2b86f?w=1200",
+    "properties": {
+      "Title": {"title": {}},
+      "Description": {"rich_text": {}},
+      "Tags": {
+        "multi_select": {
+          "options": [
+            {"name": "overview", "color": "blue"},
+            {"name": "benefits", "color": "green"},
+            {"name": "cost", "color": "yellow"},
+            {"name": "underwriting", "color": "red"},
+            {"name": "health", "color": "purple"},
+            {"name": "approval", "color": "pink"},
+            {"name": "term", "color": "gray"},
+            {"name": "whole life", "color": "orange"},
+            {"name": "coverage type", "color": "brown"},
+            {"name": "premium", "color": "default"},
+            {"name": "beneficiary", "color": "blue"},
+            {"name": "riders", "color": "green"},
+            {"name": "cash value", "color": "yellow"}
+          ]
+        }
+      },
+      "Priority": {
+        "select": {
+          "options": [
+            {"name": "High", "color": "red"},
+            {"name": "Medium", "color": "yellow"},
+            {"name": "Low", "color": "gray"}
+          ]
+        }
+      }
+    }
+  },
+  "objections_database": {
+    "title": "Common Objections",
+    "icon": "🛡️",
+    "cover": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200",
+    "properties": {
+      "Title": {"title": {}},
+      "Description": {"rich_text": {}},
+      "Tags": {
+        "multi_select": {
+          "options": [
+            {"name": "price", "color": "red"},
+            {"name": "trust", "color": "blue"},
+            {"name": "delay", "color": "yellow"},
+            {"name": "need", "color": "green"},
+            {"name": "comparison", "color": "purple"},
+            {"name": "health", "color": "pink"},
+            {"name": "family", "color": "orange"},
+            {"name": "budget", "color": "gray"},
+            {"name": "decision", "color": "brown"},
+            {"name": "coverage", "color": "default"},
+            {"name": "credibility", "color": "blue"},
+            {"name": "timing", "color": "green"}
+          ]
+        }
+      },
+      "Difficulty": {
+        "select": {
+          "options": [
+            {"name": "Easy", "color": "green"},
+            {"name": "Medium", "color": "yellow"},
+            {"name": "Hard", "color": "red"}
+          ]
+        }
+      }
+    }
+  },
+  "scripts_database": {
+    "title": "Scripts Library",
+    "icon": "📝",
+    "cover": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=1200",
+    "properties": {
+      "Title": {"title": {}},
+      "Description": {"rich_text": {}},
+      "Tags": {
+        "multi_select": {
+          "options": [
+            {"name": "call", "color": "blue"},
+            {"name": "text", "color": "green"},
+            {"name": "voicemail", "color": "yellow"},
+            {"name": "email", "color": "red"},
+            {"name": "follow-up", "color": "purple"},
+            {"name": "opening", "color": "pink"},
+            {"name": "referral", "color": "orange"},
+            {"name": "appointment", "color": "gray"}
+          ]
+        }
+      },
+      "Skill Level": {
+        "select": {
+          "options": [
+            {"name": "Beginner", "color": "green"},
+            {"name": "Intermediate", "color": "yellow"},
+            {"name": "Advanced", "color": "red"}
+          ]
+        }
+      }
+    }
+  },
+  "sales_training": {
+    "title": "Sales Call Training",
+    "icon": "📞",
+    "cover": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=1200",
+    "description": "Master every phase of the final expense sales process with proven techniques, real-world examples, and psychological insights that transform prospects into protected families."
+  }
+}

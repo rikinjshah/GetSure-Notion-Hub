@@ -1,0 +1,23 @@
+{
+  "notion": {
+    "token": "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",
+    "parent_page_id": "230dfdef0e0a809ba2c5c506978fe342"
+  },
+  "settings": {
+    "max_blocks_per_page": 90,
+    "rate_limit_delay": 0.3,
+    "chunk_large_content": true,
+    "skip_tables": false,
+    "enable_covers": true,
+    "enable_icons": true
+  },
+  "content_limits": {
+    "max_faq_content_blocks": 80,
+    "max_training_content_blocks": 85,
+    "max_objection_content_blocks": 75,
+    "max_script_content_blocks": 70,
+    "max_paragraph_length": 1800,
+    "max_list_items": 8,
+    "max_table_rows": 6
+  }
+}
