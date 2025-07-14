@@ -1,123 +1,100 @@
 ---
 slug: needs-discovery
+background_color: "#E8F5E9"
 title: "2. Needs Discovery & Fact-Find"
 icon: "🔍"
 cover_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200"
 goal: "Uncover their specific situation, emotional drivers, and pain points to position final expense as the perfect solution"
 ---
 
-🎯 **Purpose of this phase**  
-Transform from a stranger making a call into a trusted advisor who understands their unique situation. This is where you move from talking to listening, and where you discover the emotional triggers that will drive their decision.
+# What This Phase Entails
 
-The fact-finding phase is arguably the most critical part of your entire sales process. Most agents rush through this to get to their presentation, but master salespeople know that thorough discovery makes the close inevitable. When you truly understand someone's situation, fears, and motivations, presenting the solution becomes natural and effortless.
+**In this phase, you shift from talking to listening. You ask questions to uncover the prospect’s unique situation, emotional drivers, and pain points.**
+**You use NEPQ permission and problem questions to help the prospect open up, and you listen for both logical and emotional needs.**
 
-💭 **What the prospect might be thinking**  
-"Why do they need to know all this personal information?" or "Are they going to use this against me?" Many prospects feel vulnerable sharing financial details with strangers. Others worry about being judged for their past decisions or current financial situation.
+---
 
-Some prospects have been burned before by agents who gathered information and then disappeared, so they may be protective of their details. Your job is to create safety and demonstrate that every question serves their best interests.
+# 🎯 Purpose & Mindset
 
-🧠 **Why discovery matters**  
-People buy for emotional reasons and justify with logic. Surface-level needs discovery only reveals logical factors (price, coverage amount), but deep discovery uncovers emotional drivers (fear of burdening family, desire for dignity, peace of mind).
+**The purpose is to transform from a stranger into a trusted advisor.**
+**You want the prospect to feel safe sharing personal details, knowing you’re there to help, not judge.**
 
-When you understand both the logical AND emotional factors, you can present your solution in terms that resonate on both levels. This creates what sales experts call "buying pressure"—the internal motivation that leads to quick decisions.
+---
 
-> **Callout**: The goal isn't just to gather facts—it's to understand the story behind the facts. Every piece of information reveals something about their values, fears, or priorities.
+# 💭 Prospect Psychology
 
-## 🎯 Strategic Discovery Framework
+- **Prospects may feel vulnerable sharing financial or health details.**
+- **They may worry about being judged or about how their information will be used.**
+- **Some have been burned by pushy agents before and are on guard.**
 
-### Family & Responsibility Questions
-**Purpose**: Understand who they care about and feel responsible for
+---
 
-- "Tell me about your family situation—who would be handling arrangements if something happened?"
-- "Have you ever had to deal with funeral costs for a family member?"
-- "What was that experience like financially and emotionally?"
-- "Who would you want to protect from having to worry about money during that difficult time?"
+# 🧠 Core Tactics & NEPQ Techniques
 
-### Current Coverage Assessment
-**Purpose**: Identify gaps and understand their insurance sophistication
+- **Always ask permission before asking personal questions.**
+- **Start with NEPQ permission questions:**
+  - "Would it be okay if I asked a few questions to better understand your situation, so I can point you in the right direction?"
+- **Use NEPQ problem and consequence questions:**
+  - "Can you walk me through what prompted you to look into this now?"
+  - "What concerns do you have about your current coverage or situation?"
+  - "How would it affect your family if something happened and there wasn’t enough coverage?"
+- **Use NEPQ solution and consequence questions:**
+  - "What would it mean for you and your family to have this taken care of?"
+- **Acknowledge and empathize after every answer:**
+  - "That makes sense, a lot of people feel the same way."
+  - "I appreciate you sharing that with me."
+- **Use stories and gentle assumptions to invite sharing:**
+  - "Many people I talk to say their biggest worry is leaving a bill for their family. Is that something you relate to?"
 
-- "Do you currently have any life insurance in place?"
-- "When did you get that coverage, and what was it designed for?"
-- "How confident are you that it would cover your final expenses?"
-- "What would happen to that coverage if you outlived the term?"
+---
 
-### Financial Comfort Zone
-**Purpose**: Determine budget parameters without being invasive
+# 💬 Sample Dialogue
 
-- "What type of monthly payment would feel comfortable for your budget?"
-- "Are you more concerned about keeping payments low or having higher coverage?"
-- "If we could show you guaranteed coverage for about $X per month, would that work?"
+> **Agent:** "Would it be okay if I asked a few questions to better understand your situation, so I can point you in the right direction?"
+>
+> **Agent:** "What prompted you to look into this now?"
+>
+> **Agent:** "How would it affect your family if something happened and there wasn’t enough coverage?"
+>
+> **Agent:** "What would it mean for you to know this was all taken care of?"
 
-## 💬 Advanced Discovery Techniques
+---
 
-### The Story Method
-Instead of asking direct questions, share a brief story that invites them to share theirs:
+# � Mistakes to Avoid
 
-*"I was just helping a gentleman your age last week. He told me his biggest fear wasn't dying—it was leaving his wife with a $10,000 bill she couldn't afford. Is that something you can relate to?"*
+- **Asking too many questions without context or permission**
+- **Failing to acknowledge or empathize with their answers**
+- **Rushing to the next phase before you understand their story**
+- **Not exploring emotional drivers**
 
-### The Assumption Close
-Make gentle assumptions that allow them to correct you with their real situation:
+---
 
-*"I'm assuming you're like most of my clients—you've worked hard your whole life and just want to make sure your family isn't burdened. Is that accurate?"*
+# ✅ Success Indicators
 
-### The Permission Pattern
-Ask permission to explore sensitive topics:
+- **Prospect shares stories and emotions, not just facts**
+- **They ask you questions back**
+- **They mention specific family members or concerns**
+- **They use words like "worried," "concerned," or "important"**
 
-*"Would it be okay if I asked about your health situation? I only ask because it affects what options might be available to you."*
+---
 
-## 📊 Discovery Information Grid
+# ⏭️ Transition to Next Phase
 
-| Information Type | Why You Need It | How to Ask |
-|-----------------|----------------|------------|
-| **Age** | Determines pricing and options | "What year were you born?" |
-| **Health Status** | Affects underwriting approach | "How's your health been lately?" |
-| **Family Structure** | Identifies beneficiaries and motivations | "Tell me about your family" |
-| **Current Coverage** | Reveals gaps and competitive landscape | "What insurance do you have now?" |
-| **Budget Range** | Sets realistic expectations | "What feels comfortable monthly?" |
-| **Decision Process** | Understand who else is involved | "Who else helps with financial decisions?" |
+> "Thank you for sharing all that with me. Based on what you've told me, I think I have a solution that could be a great fit. Would you like to hear how it works?"
 
-## 🎭 Emotional Discovery Questions
+---
 
-These questions reveal the deeper motivations that drive purchase decisions:
+# 📊 Quick Reference Table
 
-**Fear-Based Discovery:**
-- "What concerns you most about final expenses?"
-- "What would worry you if your family had to handle costs without preparation?"
-- "Have you seen families struggle with unexpected funeral bills?"
+| Step                | What to Do/Say                                  | Why It Matters                  |
+|---------------------|-------------------------------------------------|---------------------------------|
+| Ask Permission      | “Would it be okay if I asked a few questions…?” | Lowers guard, builds trust      |
+| Problem Questions   | “What prompted you to look into this now?”      | Reveals motivation              |
+| Consequence Qs      | “How would it affect your family if…?”          | Surfaces emotional drivers      |
+| Empathize           | “That makes sense, a lot of people feel that.”  | Builds rapport                  |
 
-**Dignity-Based Discovery:**
-- "How important is it to you to maintain control over your final arrangements?"
-- "What kind of service would feel appropriate for someone who's worked as hard as you have?"
+---
 
-**Legacy-Based Discovery:**
-- "What do you want your family to remember about how you handled your responsibilities?"
-- "How would it feel to know everything was taken care of?"
+# 📝 Practice Exercise
 
-## 🚨 Common Discovery Mistakes
-
-**Information Interrogation**: Asking question after question without acknowledging their answers or building on what they share.
-
-**Surface-Level Only**: Stopping at basic facts instead of exploring the emotions and stories behind them.
-
-**Defensive Responses**: When they ask "Why do you need to know that?", many agents get flustered instead of explaining the benefit.
-
-**Rushing the Process**: Moving to presentation before you fully understand their situation and motivations.
-
-## ✅ Success Indicators
-
-You know your discovery is working when:
-- They're sharing stories and emotions, not just facts
-- They ask you questions back
-- They mention specific family members or concerns
-- They use words like "worried," "concerned," or "important"
-
-## 🚫 Mistakes to Avoid
-
-- Asking too many questions without context
-- Failing to acknowledge their answers
-- Rushing to the next phase before they're ready
-- Not exploring emotional drivers
-
-## ⏭️ Transition to Next Phase
-
-"Thank you for sharing all that with me. Based on what you've told me, I think I have a solution that could be a great fit. Would you like to hear how it works?"
+**Role-play the discovery phase with a partner. Focus on asking NEPQ permission, problem, and consequence questions, and always empathize before moving on. Switch roles and give feedback.**
