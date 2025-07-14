@@ -3,7 +3,7 @@
   "title": "How Is Final Expense Insurance Different from Using Savings?",
   "description": "Final expense insurance provides certainty, while savings can be depleted unexpectedly.",
   "tags": ["COMPARISON", "SAVINGS", "CERTAINTY"],
-  "icon": "�",
+  "icon": "💡",
   "cover": "https://singlecolorimage.com/get/f0f8ff/1200x400",
   "callout": "**Savings can be used up by emergencies, but final expense insurance guarantees funds for your family when they need it most.**",
   "content": [
@@ -12,6 +12,69 @@
   "variations": [
     "Should I just save for my funeral instead of buying insurance?",
     "Is insurance better than using my savings for final expenses?"
+  ],
+  "divider": "---"
+},
+{
+  "title": "What is Final Expense Insurance?",
+  "description": "A smaller permanent life insurance policy for funeral and end-of-life costs.",
+  "tags": ["OVERVIEW", "BASICS", "DEFINITION"],
+  "icon": "📄",
+  "cover": "https://singlecolorimage.com/get/e8f5e9/1200x400",
+  "callout": "**Final expense is a permanent life insurance policy designed to cover funeral and immediate end-of-life expenses.**",
+  "content": [
+    {"type": "paragraph", "text": "**Final expense is a smaller permanent life insurance policy typically intended to cover funeral costs and other end-of-life expenses. Guaranteed payout to helps loved ones pay for a funeral service, burial or cremation, doctor or hospital bills, or other immediate expenses after a death.**"}
+  ],
+  "variations": [
+    "What does final expense insurance cover?",
+    "Is final expense the same as burial insurance?"
+  ],
+  "divider": "---"
+},
+{
+  "title": "Is Final Expense Insurance the same as Life Insurance?",
+  "description": "Final expense is a type of whole life insurance, but with lower coverage amounts and affordable premiums.",
+  "tags": ["COMPARISON", "WHOLE LIFE", "TERM LIFE"],
+  "icon": "🏥",
+  "cover": "https://singlecolorimage.com/get/fff8e1/1200x400",
+  "callout": "**Final expense insurance is a form of whole life insurance sold in small quantities, with affordable premiums.**",
+  "content": [
+    {"type": "paragraph", "text": "**Final expense insurance is a form of whole life insurance sold in small quantities. Since coverage amounts are lower than other types of life insurance, like term or permanent insurance, the premiums for a final expense policy tend to be affordable. Coverage amounts can range from a few thousand dollars up to $40,000, in some cases.**"}
+  ],
+  "variations": [
+    "Is final expense the same as term life?",
+    "How is final expense different from regular life insurance?"
+  ],
+  "divider": "---"
+},
+{
+  "title": "What is the difference between whole life and term life?",
+  "description": "Whole life is permanent with cash value; term life is temporary and expires.",
+  "tags": ["WHOLE LIFE", "TERM LIFE", "CASH VALUE"],
+  "icon": "💰",
+  "cover": "https://singlecolorimage.com/get/fff3e0/1200x400",
+  "callout": "**Whole life insurance lasts your entire life and builds cash value. Term life is temporary and expires after a set period.**",
+  "content": [
+    {"type": "paragraph", "text": "**Typically final expense coverage is a lower death benefit amount; $5,000 – $40,000. Whole Life Insurance benefits can go up to millions of dollars, and it focuses on cash value accumulation. In reality, a final expense whole life is a type of whole life that is focused more on getting you a more affordable, guaranteed death benefit.**"}
+  ],
+  "variations": [
+    "Is term life or whole life better for final expenses?",
+    "Does final expense build cash value?"
+  ],
+  "divider": "---"
+},
+{
+  "title": "What is the difference between whole life and universal life?",
+  "description": "Whole life has fixed premiums and cash value; universal life is flexible.",
+  "tags": ["WHOLE LIFE", "UNIVERSAL LIFE", "CASH VALUE"],
+  "icon": "📝",
+  "cover": "https://singlecolorimage.com/get/f3e5f5/1200x400",
+  "callout": "**Whole life offers consistent premiums and guaranteed cash value; universal life offers flexibility.**",
+  "content": [
+    {"type": "paragraph", "text": "**Whole life and universal life insurance are both types of permanent life insurance. Whole life insurance offers consistent premiums and guaranteed cash value accumulation, while a universal policy provides flexible premiums and death benefits. You can borrow against the cash value of a whole or universal policy.**"}
+  ],
+  "variations": [
+    "Should I get whole life or universal life for final expenses?"
   ],
   "divider": "---"
 }
