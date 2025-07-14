@@ -1,94 +1,18 @@
 [
-  {
-    "title": "How does final expense insurance work?",
-    "description": "Covers funeral costs and other end-of-life expenses with guaranteed payouts.",
-    "tags": ["overview", "benefits", "cost"],
-    "icon": "💰",
-    "cover": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=1200",
-    "callout": "Final expense is a small whole life policy designed specifically to pay for funeral and related costs when you pass away.",
-    "content": [
-      {
-        "type": "paragraph",
-        "text": "Final expense insurance operates as a streamlined whole life insurance policy with coverage amounts typically ranging from $5,000 to $40,000. Unlike traditional life insurance that focuses on income replacement, final expense insurance addresses the immediate financial burden that families face when someone passes away."
-      },
-      {
-        "type": "heading_3",
-        "text": "How the Process Works"
-      },
-      {
-        "type": "bulleted_list",
-        "items": [
-          "**Application**: Simple health questionnaire, no medical exam required",
-          "**Premium Payments**: Level monthly payments that never increase",
-          "**Death Benefit**: Tax-free payout goes directly to your chosen beneficiary",
-          "**Claim Process**: Typically processed within 7-14 days of submitting death certificate"
-        ]
-      },
-      {
-        "type": "callout",
-        "text": "💡 **Key Insight**: The average funeral costs $8,000-$12,000, but final expense policies provide flexibility to use funds for any immediate needs.",
-        "icon": "💡"
-      },
-      {
-        "type": "table",
-        "headers": ["Coverage Amount", "Typical Premium", "Best For"],
-        "rows": [
-          ["$5,000-$10,000", "$25-$50/month", "Basic funeral coverage"],
-          ["$10,000-$20,000", "$50-$100/month", "Funeral + immediate expenses"],
-          ["$20,000-$40,000", "$100-$200/month", "Comprehensive final expense needs"]
-        ]
-      }
-    ],
-    "variations": [
-      "What is final expense insurance?",
-      "How does burial insurance work?",
-      "What does final expense coverage include?"
-    ]
-  },
-  {
-    "title": "Can I get coverage if I have health issues?",
-    "description": "Yes—simplified underwriting makes coverage accessible even with health conditions.",
-    "tags": ["underwriting", "health", "approval"],
-    "icon": "🏥",
-    "cover": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=1200",
-    "callout": "Final expense insurance uses simplified underwriting, making it one of the most accessible types of life insurance for people with health issues.",
-    "content": [
-      {
-        "type": "paragraph",
-        "text": "The beauty of final expense insurance lies in its accessibility. While traditional life insurance often requires extensive medical exams and can exclude people with various health conditions, final expense policies are designed with simplified underwriting that opens the door for many who have been previously declined."
-      },
-      {
-        "type": "heading_3",
-        "text": "Types of Underwriting Available"
-      },
-      {
-        "type": "bulleted_list",
-        "items": [
-          "**Simplified Issue**: 5-10 basic health questions, no medical exam",
-          "**Guaranteed Issue**: No health questions at all, automatic acceptance",
-          "**Modified Benefits**: 2-3 year waiting period for full benefits with guaranteed issue"
-        ]
-      },
-      {
-        "type": "callout",
-        "text": "🎯 **Success Story**: Even clients with diabetes, heart conditions, or previous cancer diagnoses often qualify for immediate coverage through simplified issue policies.",
-        "icon": "🎯"
-      },
-      {
-        "type": "table",
-        "headers": ["Health Condition", "Simplified Issue", "Guaranteed Issue"],
-        "rows": [
-          ["Controlled Diabetes", "Usually Approved", "Always Approved"],
-          ["High Blood Pressure", "Usually Approved", "Always Approved"],
-          ["Previous Heart Attack", "Case by Case", "Always Approved"],
-          ["Cancer (5+ years remission)", "Often Approved", "Always Approved"]
-        ]
-      }
-    ],
-    "variations": [
-      "Can I get final expense with diabetes?",
-      "What if I was denied life insurance before?",
-      "Do I need a medical exam for final expense?"
-    ]
-  }
+{
+  "title": "How Is Final Expense Insurance Different from Using Savings?",
+  "description": "Final expense insurance provides certainty, while savings can be depleted unexpectedly.",
+  "tags": ["COMPARISON", "SAVINGS", "CERTAINTY"],
+  "icon": "�",
+  "cover": "https://singlecolorimage.com/get/f0f8ff/1200x400",
+  "callout": "**Savings can be used up by emergencies, but final expense insurance guarantees funds for your family when they need it most.**",
+  "content": [
+    {"type": "paragraph", "text": "**It seems wise to save money to use for your final expenses. However, you might have to reach into that money before you pass away. There’s no way to know for sure because diseases, injuries, and illnesses are unpredictable. Also, medical debt is the #1 cause of bankruptcy in this country. A single stretch in the hospital could erase your entire savings. Paying into a final expense insurance policy creates more certainty than depending solely on personal savings.**"}
+  ],
+  "variations": [
+    "Should I just save for my funeral instead of buying insurance?",
+    "Is insurance better than using my savings for final expenses?"
+  ],
+  "divider": "---"
+}
 ]
