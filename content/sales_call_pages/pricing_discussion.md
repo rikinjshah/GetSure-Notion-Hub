@@ -117,25 +117,21 @@ Instead of presenting one price, give them options:
 
 *Most people in your situation choose the standard option because it covers funeral costs plus gives the family some breathing room for other expenses. Which one feels right for your situation?"*
 
-## 🚨 Pricing Mistakes to Avoid
-
-**Leading with Price**: Never start with cost—always establish value first
-**Apologetic Tone**: Don't act like the price is expensive or apologize for it
-**Single Option**: Only showing one coverage/price option limits their choices
-**No Context**: Presenting price without comparing to daily expenses or the problem cost
-**Rushing**: Not giving them time to process and ask questions
-
-## ✅ Pricing Success Indicators
+## ✅ Success Indicators
 
 You know your pricing presentation is working when:
 - They ask about payment options or when coverage starts
 - They start doing their own math: "So that's only $20 per week?"
 - They ask about different coverage amounts
 - They mention how the price compares to other expenses
-- They ask practical questions about the application process
 
-## 🎪 Transition to Closing
+## 🚫 Mistakes to Avoid
 
-*"Based on everything we've discussed—your concerns about [specific worry], your desire for [specific goal], and the monthly investment of $X that works for your budget—does this feel like the right protection for your family?"*
+- Leading with price before value
+- Apologizing for the price
+- Only showing one option
+- Not giving context or comparisons
 
-The key is summarizing their needs, the solution, and the price as a package deal, then asking for their decision.
+## ⏭️ Transition to Next Phase
+
+"Based on everything we've discussed, does this feel like the right protection for your family? If so, the next step is to get your application started."

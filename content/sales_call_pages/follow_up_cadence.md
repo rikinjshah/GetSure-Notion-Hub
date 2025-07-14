@@ -159,7 +159,6 @@ You know your follow-up is working when:
 - They ask new questions or bring up concerns to address
 - They mention discussing it with family members
 - They ask about current rates or availability
-- They provide updates on their situation or timing
 
 ## 🎯 Converting Follow-Up to Sale
 

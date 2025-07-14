@@ -75,3 +75,22 @@ Never start with:
 Remember: You're not interrupting their day—you're potentially solving a problem they've already identified. They requested information because they have a genuine concern about leaving their family with financial burden.
 
 Your confidence in this phase sets the tone for everything that follows. If you believe you're providing valuable service (which you are), that belief will come through in your voice and approach.
+
+## ✅ Success Indicators
+
+You know this phase is working when:
+- The prospect is relaxed and conversational
+- They answer your questions openly
+- They use your name and mirror your tone
+- They agree to continue the conversation
+
+## 🚫 Mistakes to Avoid
+
+- Sounding scripted or robotic
+- Rushing through the introduction
+- Failing to confirm availability
+- Ignoring the prospect's emotional state
+
+## ⏭️ Transition to Next Phase
+
+"Now that we've had a chance to get to know each other, would it be okay if I asked a few questions to better understand your situation?"

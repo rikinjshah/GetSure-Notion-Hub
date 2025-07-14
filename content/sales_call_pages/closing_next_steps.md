@@ -124,17 +124,21 @@ Use these to test their readiness before going for the final close:
 ### "I want to shop around"
 *"That's smart consumer behavior, and I respect that. Let me ask you this: if you found the exact same coverage for $5 less per month somewhere else, would that change your life? Meanwhile, every day you're shopping is another day your family doesn't have protection. Sometimes the best deal isn't the cheapest price—it's getting the right coverage in place quickly."*
 
-## ✅ Application Success Indicators
+## ✅ Success Indicators
 
 You know you're ready to start the application when:
 - They're asking practical questions about start dates
 - They mention beneficiary names or decisions
 - They ask about payment methods
 - They seem eager to "get this handled"
-- They're no longer questioning whether they need it
 
-## 🎪 Starting the Application
+## 🚫 Mistakes to Avoid
 
-*"Perfect! Let me pull up the application and we'll get this taken care of. I'll need some basic information first. What's your full legal name as it appears on your driver's license?"*
+- Rushing the close
+- Over-explaining or overselling
+- Ignoring last-minute hesitations
+- Failing to set clear next steps
 
-The key is moving smoothly from close to application without giving them time to reconsider. Once you start gathering information, momentum builds and completion becomes likely.
+## ⏭️ Transition to Next Phase
+
+"Perfect! Let me pull up the application and we'll get this taken care of. I'll need some basic information first. What's your full legal name as it appears on your driver's license?"

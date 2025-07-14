@@ -103,20 +103,21 @@ These questions reveal the deeper motivations that drive purchase decisions:
 
 **Rushing the Process**: Moving to presentation before you fully understand their situation and motivations.
 
-## 🎯 Discovery Success Indicators
+## ✅ Success Indicators
 
 You know your discovery is working when:
-- They're asking you questions back
 - They're sharing stories and emotions, not just facts
-- They're talking more than you are
+- They ask you questions back
+- They mention specific family members or concerns
 - They use words like "worried," "concerned," or "important"
-- They mention specific family members by name
-- They reference past experiences with loss or financial stress
 
-## 🎪 Transition to Presentation
+## 🚫 Mistakes to Avoid
 
-Once you have thorough discovery, transition naturally:
+- Asking too many questions without context
+- Failing to acknowledge their answers
+- Rushing to the next phase before they're ready
+- Not exploring emotional drivers
 
-*"Based on everything you've shared—your concern about [specific worry], your desire to [specific goal], and your comfort with around $X monthly—I think I have exactly what you're looking for. Would you like me to explain how this works?"*
+## ⏭️ Transition to Next Phase
 
-The key is referencing specific things they told you, proving you were listening and that your solution is customized to their situation.
+"Thank you for sharing all that with me. Based on what you've told me, I think I have a solution that could be a great fit. Would you like to hear how it works?"

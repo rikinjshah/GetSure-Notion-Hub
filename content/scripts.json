@@ -5,7 +5,7 @@
     "tags": ["call", "opening"],
     "icon": "📞",
     "cover": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=1200",
-    "when_to_use": "Use when calling leads who have expressed interest in final expense information through online forms, direct mail response, or referrals",
+    "callout": "When to use: Use when calling leads who have expressed interest in final expense information through online forms, direct mail response, or referrals",
     "script_blocks": [
       {
         "type": "opening",
@@ -30,6 +30,11 @@
       "Match their energy level and pace of speaking",
       "If they say they're busy, always offer to reschedule rather than rush"
     ],
+    "tips_for_adapting": [
+      "If they express interest but are busy, offer a specific time they can call back.",
+      "If they decline, ask for their reason and address it.",
+      "If they express interest but are hesitant, reassure them about the value."
+    ],
     "common_responses": [
       {
         "response": "I'm not interested anymore",
@@ -51,7 +56,7 @@
     "tags": ["voicemail", "follow-up"],
     "icon": "🎙️",
     "cover": "https://images.unsplash.com/photo-1589903308904-1010c2294adc?w=1200",
-    "when_to_use": "When prospect doesn't answer your call - designed to encourage callback rather than sound sales-y",
+    "callout": "When to use: When prospect doesn't answer your call - designed to encourage callback rather than sound sales-y",
     "script_blocks": [
       {
         "type": "identification",
@@ -82,6 +87,11 @@
       "Don't oversell in the voicemail - save details for conversation",
       "Always mention you'll try again so they know you're persistent but professional"
     ],
+    "tips_for_adapting": [
+      "If they don't answer, try a follow-up voicemail.",
+      "If they express interest, offer a specific time for a call.",
+      "If they decline, ask for their reason and address it."
+    ],
     "variations": [
       {
         "version": "Follow-up Voicemail",
@@ -99,7 +109,7 @@
     "tags": ["text", "follow-up"],
     "icon": "💬",
     "cover": "https://images.unsplash.com/photo-1512941675444-2bc4ad5a26ce?w=1200",
-    "when_to_use": "24-48 hours after initial contact attempt, and only if they've opted in to texting or provided a mobile number",
+    "callout": "When to use: 24-48 hours after initial contact attempt, and only if they've opted in to texting or provided a mobile number",
     "script_blocks": [
       {
         "type": "greeting",
@@ -130,6 +140,11 @@
       "Always include your phone number for easy callback",
       "Use proper grammar and spelling - you're representing your company"
     ],
+    "tips_for_adapting": [
+      "If they don't respond, try a follow-up call.",
+      "If they express interest, offer a specific time for a call.",
+      "If they decline, ask for their reason and address it."
+    ],
     "follow_up_sequence": [
       {
         "timing": "Day 1",
@@ -151,7 +166,7 @@
     "tags": ["call", "referral"],
     "icon": "🤝",
     "cover": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=1200",
-    "when_to_use": "When calling prospects who were referred by existing clients or who have some connection to your business",
+    "callout": "When to use: When calling prospects who were referred by existing clients or who have some connection to your business",
     "script_blocks": [
       {
         "type": "opening",
@@ -176,6 +191,11 @@
       "Use the referrer's satisfaction as social proof",
       "Be prepared to answer questions about the referrer's experience"
     ],
+    "tips_for_adapting": [
+      "If they express interest, ask for their name and number for follow-up.",
+      "If they decline, ask for their reason and address it.",
+      "If they express interest but are hesitant, reassure them about the value."
+    ],
     "referrer_phrases": [
       "I just helped [Name] get $15,000 of coverage for about $85 per month",
       "[Name] was so happy with their coverage that they suggested I call you",
@@ -189,7 +209,7 @@
     "tags": ["call", "appointment"],
     "icon": "📅",
     "cover": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=1200",
-    "when_to_use": "When leads prefer appointments, when dealing with couples, or when initial call timing isn't ideal for full presentation",
+    "callout": "When to use: When leads prefer appointments, when dealing with couples, or when initial call timing isn't ideal for full presentation",
     "script_blocks": [
       {
         "type": "opening",
@@ -213,6 +233,11 @@
       "Give specific time options rather than asking when they're available",
       "Confirm the appointment with date, time, and your phone number",
       "Follow up with a text or email confirmation"
+    ],
+    "tips_for_adapting": [
+      "If they express interest, offer a specific time for the appointment.",
+      "If they decline, ask for their reason and address it.",
+      "If they express interest but are hesitant, reassure them about the value."
     ],
     "appointment_confirmation": [
       "Perfect! I have you down for [Day] at [Time].",

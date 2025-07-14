@@ -117,25 +117,21 @@ Connect directly to their discovery responses:
 - "When you mentioned wanting [Y], this is exactly how that happens..."
 - "The [specific situation] you described is precisely why this exists..."
 
-## 🚨 Presentation Mistakes to Avoid
-
-**Feature Dumping**: Listing features without connecting to their specific needs
-**Generic Benefits**: Using the same benefit statements for everyone
-**Technical Overload**: Explaining insurance mechanics instead of outcomes
-**Rushing Through**: Not allowing time for questions or clarification
-**Assuming Understanding**: Not checking if they're following your explanation
-
-## ✅ Presentation Success Indicators
+## ✅ Success Indicators
 
 You know your presentation is working when:
-- They ask specific questions about their situation
+- The prospect asks specific questions about their situation
 - They use possessive language: "my policy," "my family"
 - They ask about next steps or application process
 - They bring up potential objections for you to address
-- They start talking about how their family would benefit
 
-## 🎪 Transitioning to Pricing
+## 🚫 Mistakes to Avoid
 
-*"Does this type of protection make sense for your situation? [Wait for confirmation] Great! Let me show you exactly what this would cost for someone your age and the coverage amount we discussed..."*
+- Listing features without connecting to needs
+- Using generic benefits for everyone
+- Overloading with technical details
+- Rushing through without checking understanding
 
-The key is getting agreement that they want the protection BEFORE discussing price. Once they're sold on the concept, price becomes a matter of finding the right amount rather than whether to buy at all.
+## ⏭️ Transition to Next Phase
+
+"Does this type of protection make sense for your situation? If so, let me show you exactly what this would cost for someone your age and the coverage amount we discussed."
