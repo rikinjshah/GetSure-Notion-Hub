@@ -1,9 +1,8 @@
 ---
 slug: needs-discovery
-background_color: "#E8F5E9"
 title: "2. Needs Discovery & Fact-Find"
 icon: "🔍"
-cover_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200"
+cover_image: "https://singlecolorimage.com/get/e8f5e9/1200x400"
 goal: "Uncover their specific situation, emotional drivers, and pain points to position final expense as the perfect solution"
 ---
 

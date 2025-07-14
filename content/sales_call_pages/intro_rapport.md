@@ -1,9 +1,8 @@
 ---
 slug: introduction-rapport
-background_color: "#F0F8FF"
 title: "1. Introduction & Rapport Building"
 icon: "🤝"
-cover_image: "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=1200"
+cover_image: "https://singlecolorimage.com/get/f0f8ff/1200x400"
 goal: "Establish trust within the first 30 seconds and set the tone that this call is about helping, not selling"
 ---
 

@@ -2,7 +2,7 @@
 slug: pricing-discussion
 title: "4. Pricing Discussion"
 icon: "💰"
-cover_image: "https://images.unsplash.com/photo-1554224154-22dec7ec8818?w=1200"
+cover_image: "https://singlecolorimage.com/get/fff3e0/1200x400"
 goal: "Present pricing in a way that demonstrates value and fits their budget while minimizing sticker shock"
 ---
 

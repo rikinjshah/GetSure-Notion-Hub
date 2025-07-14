@@ -2,7 +2,7 @@
 slug: product-presentation
 title: "3. Product Presentation"
 icon: "📋"
-cover_image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200"
+cover_image: "https://singlecolorimage.com/get/fff8e1/1200x400"
 goal: "Present final expense insurance as the perfect solution to their specific needs and concerns"
 ---
 

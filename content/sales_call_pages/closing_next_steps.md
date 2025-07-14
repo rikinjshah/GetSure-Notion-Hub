@@ -2,7 +2,7 @@
 slug: closing-next-steps
 title: "5. Closing & Next Steps"
 icon: "🎯"
-cover_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200"
+cover_image: "https://singlecolorimage.com/get/f3e5f5/1200x400"
 goal: "Secure the application and move forward with enrollment while the motivation is highest"
 ---
 

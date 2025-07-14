@@ -2,7 +2,7 @@
 slug: follow-up-cadence
 title: "6. Follow-Up Cadence"
 icon: "📅"
-cover_image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=1200"
+cover_image: "https://singlecolorimage.com/get/f5f5f5/1200x400"
 goal: "Maintain contact and provide ongoing value until the sale is completed or definitively declined"
 ---
 

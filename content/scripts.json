@@ -10,7 +10,7 @@
       {
         "type": "opening",
         "label": "Warm Opening",
-        "content": "Hi [Name], this is [Your Name] with [Company]. How are you doing today?\n\n[PAUSE FOR RESPONSE]\n\nI'm calling because you recently expressed interest in learning about final expense insurance. Is this still something you'd like information about?\n\n[PAUSE FOR CONFIRMATION]"
+        "content": "Hi [Name], this is [Your Name] with GetSure.org. How are you doing today?\n\n[PAUSE FOR RESPONSE]\n\nI'm calling because you recently expressed interest in learning about final expense insurance. Is this still something you'd like information about?\n\n[PAUSE FOR CONFIRMATION]"
       },
       {
         "type": "permission",
@@ -61,7 +61,7 @@
       {
         "type": "identification",
         "label": "Clear Identification",
-        "content": "Hi [Name], this is [Your Name] with [Company Name]."
+        "content": "Hi [Name], this is [Your Name] with GetSure.org."
       },
       {
         "type": "reason",
@@ -99,7 +99,7 @@
       },
       {
         "version": "Information Voicemail",
-        "content": "Hi [Name], this is [Your Name] with [Company]. I have the final expense information you requested and wanted to go over a few options that might work for your budget. Please call me back at [number] when it's convenient."
+        "content": "Hi [Name], this is [Your Name] with GetSure.org. I have the final expense information you requested and wanted to go over a few options that might work for your budget. Please call me back at [number] when it's convenient."
       }
     ]
   },
@@ -114,7 +114,7 @@
       {
         "type": "greeting",
         "label": "Professional Greeting",
-        "content": "Hi [Name], this is [Your Name] from [Company]."
+        "content": "Hi [Name], this is [Your Name] from GetSure.org."
       },
       {
         "type": "reference",
@@ -171,7 +171,7 @@
       {
         "type": "opening",
         "label": "Referral Opening",
-        "content": "Hi [Name], this is [Your Name] with [Company]. [Referrer Name] suggested I give you a call about final expense insurance. How are you doing today?"
+        "content": "Hi [Name], this is [Your Name] with GetSure.org. [Referrer Name] suggested I give you a call about final expense insurance. How are you doing today?"
       },
       {
         "type": "referrer_connection",
@@ -214,7 +214,7 @@
       {
         "type": "opening",
         "label": "Professional Opening",
-        "content": "Hi [Name], this is [Your Name] with [Company]. I'm calling about the final expense information you requested. Do you have just a quick minute?"
+        "content": "Hi [Name], this is [Your Name] with GetSure.org. I'm calling about the final expense information you requested. Do you have just a quick minute?"
       },
       {
         "type": "brief_overview",
