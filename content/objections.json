@@ -244,5 +244,220 @@
       "My family has good genes",
       "Nothing's going to happen to me soon"
     ]
+  },
+  {
+    "title": "I want to leave money to my kids, not an insurance company",
+    "description": "Concern that premiums are wasted if not used, preferring to save or invest for heirs.",
+    "tags": ["legacy", "value", "family"],
+    "icon": "👨‍👩‍👧‍👦",
+    "cover": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200",
+    "what_they_mean": "They want to maximize what their children inherit and worry insurance is a 'lost' expense if not claimed.",
+    "emotional_drivers": [
+      "Desire to provide for family",
+      "Skepticism about insurance value",
+      "Fear of wasted money",
+      "Preference for tangible assets"
+    ],
+    "rebuttal_strategies": [
+      "Explain insurance as a guaranteed legacy, not a gamble",
+      "Show how savings can be depleted by emergencies, but insurance is protected",
+      "Highlight immediate payout and no probate delays",
+      "Compare return on premium vs. savings interest",
+      "Discuss tax-free benefit to heirs"
+    ],
+    "sample_responses": [
+      {
+        "situation": "Prefers to save for kids",
+        "response": "That’s a loving instinct. The difference is, savings can be used up or lost to emergencies, but insurance guarantees your family gets a lump sum, tax-free, exactly when they need it most—no matter what."
+      },
+      {
+        "situation": "Worried about 'wasting' money",
+        "response": "I understand wanting every dollar to go to your kids. With insurance, you’re turning a small monthly payment into a much larger gift—often more than you could save on your own."
+      }
+    ],
+    "proof_elements": [
+      "Tax-free payout documentation",
+      "Comparison of savings vs. insurance growth",
+      "Stories of families helped by insurance payout",
+      "Immediate access vs. probate delays"
+    ],
+    "variations": [
+      "I'd rather put money in a savings account",
+      "I want my kids to get everything",
+      "Isn't insurance just a waste if I don't use it?",
+      "I'd rather invest for my family"
+    ]
+  },
+  {
+    "title": "I'm too old or sick to qualify",
+    "description": "Belief that age or health disqualifies them from coverage.",
+    "tags": ["health", "age", "eligibility"],
+    "icon": "🎂",
+    "cover": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=1200",
+    "what_they_mean": "They assume their health or age makes them ineligible, or that premiums will be unaffordable.",
+    "emotional_drivers": [
+      "Fear of rejection",
+      "Embarrassment about health",
+      "Hopelessness",
+      "Desire for dignity"
+    ],
+    "rebuttal_strategies": [
+      "Explain guaranteed-issue and simplified-issue policies",
+      "Share stories of clients with health issues who qualified",
+      "Clarify that no medical exam is needed for many plans",
+      "Show affordable options for all ages",
+      "Emphasize dignity and peace of mind"
+    ],
+    "sample_responses": [
+      {
+        "situation": "Chronic health issues",
+        "response": "You’re not alone—many of my clients have health conditions. The good news is, there are plans designed specifically for people in your situation, with no medical exam and guaranteed acceptance."
+      },
+      {
+        "situation": "Advanced age",
+        "response": "Age is just a number here. Some of our most popular plans accept applicants up to age 85, and the process is quick and respectful—no exams, just a few health questions."
+      }
+    ],
+    "proof_elements": [
+      "Guaranteed-issue policy brochures",
+      "Eligibility charts by age",
+      "Testimonials from older clients",
+      "No-exam application forms"
+    ],
+    "variations": [
+      "I'm too old for this",
+      "My health is too bad",
+      "No one will insure me",
+      "I have too many medical problems"
+    ]
+  },
+  {
+    "title": "I don't want to deal with medical exams",
+    "description": "Objection to the hassle, discomfort, or fear of medical underwriting.",
+    "tags": ["medical", "process", "comfort"],
+    "icon": "🩺",
+    "cover": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd23?w=1200",
+    "what_they_mean": "They dislike needles, doctors, or paperwork, or fear being declined after an exam.",
+    "emotional_drivers": [
+      "Anxiety about medical procedures",
+      "Desire for privacy",
+      "Fear of bad news",
+      "Impatience with paperwork"
+    ],
+    "rebuttal_strategies": [
+      "Highlight no-exam, instant-issue policies",
+      "Explain simple application process (just a few questions)",
+      "Share how most clients qualify in minutes",
+      "Emphasize privacy and convenience",
+      "Offer to walk through the process together"
+    ],
+    "sample_responses": [
+      {
+        "situation": "Dislikes medical exams",
+        "response": "You’re in luck—most final expense plans don’t require any medical exam at all. Just a few health questions over the phone, and you can be covered in minutes."
+      },
+      {
+        "situation": "Worried about paperwork",
+        "response": "I get it—no one likes paperwork or doctor visits. That’s why these plans are designed to be simple and fast, with no needles, no exams, and no hassle."
+      }
+    ],
+    "proof_elements": [
+      "No-exam policy flyers",
+      "Application process flowchart",
+      "Client testimonials about easy process",
+      "Comparison of exam vs. no-exam plans"
+    ],
+    "variations": [
+      "I hate needles",
+      "I don't want to see a doctor",
+      "I don't have time for all that paperwork",
+      "I just want something simple"
+    ]
+  },
+  {
+    "title": "I'd rather use my savings for final expenses",
+    "description": "Belief that personal savings are a better way to cover funeral costs.",
+    "tags": ["savings", "planning", "alternatives"],
+    "icon": "🏦",
+    "cover": "https://images.unsplash.com/photo-1503676382389-4809596d5290?w=1200",
+    "what_they_mean": "They feel confident in their ability to save, or distrust insurance as unnecessary.",
+    "emotional_drivers": [
+      "Desire for control",
+      "Skepticism about insurance",
+      "Confidence in financial planning",
+      "Fear of wasting money"
+    ],
+    "rebuttal_strategies": [
+      "Explain how emergencies can deplete savings unexpectedly",
+      "Show how insurance guarantees funds regardless of timing",
+      "Compare growth of savings vs. insurance payout",
+      "Discuss tax-free, immediate payout to family",
+      "Share stories of families caught off guard by expenses"
+    ],
+    "sample_responses": [
+      {
+        "situation": "Confident saver",
+        "response": "It’s great that you’re a planner. The challenge is, savings can be used up by emergencies or unexpected bills. Insurance guarantees your family gets the money, no matter what happens to your savings."
+      },
+      {
+        "situation": "Distrusts insurance",
+        "response": "I understand wanting to keep things simple. The difference is, insurance multiplies your money—turning a small monthly payment into a much larger, tax-free benefit for your family, right when they need it."
+      }
+    ],
+    "proof_elements": [
+      "Emergency expense statistics",
+      "Comparison of savings vs. insurance payout",
+      "Stories of depleted savings",
+      "Immediate payout documentation"
+    ],
+    "variations": [
+      "I have enough in the bank",
+      "I'll just use my savings",
+      "Why pay for insurance if I can save?",
+      "I don't believe in insurance"
+    ]
+  },
+  {
+    "title": "I don't trust giving out my bank information",
+    "description": "Worry about sharing sensitive financial info for premium payments.",
+    "tags": ["trust", "security", "payments"],
+    "icon": "🔒",
+    "cover": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=1200",
+    "what_they_mean": "They fear fraud, identity theft, or losing control over their finances.",
+    "emotional_drivers": [
+      "Fear of fraud or scams",
+      "Desire for financial control",
+      "Bad past experiences",
+      "General skepticism"
+    ],
+    "rebuttal_strategies": [
+      "Explain secure payment processing and privacy policies",
+      "Offer alternative payment methods (debit card, bill pay)",
+      "Share company credentials and regulatory oversight",
+      "Provide written documentation of security measures",
+      "Acknowledge and validate their caution"
+    ],
+    "sample_responses": [
+      {
+        "situation": "Worried about fraud",
+        "response": "That’s a smart concern. We use secure, encrypted systems and never share your information. You can also use a debit card or set up bill pay if you prefer—whatever makes you most comfortable."
+      },
+      {
+        "situation": "Bad past experience",
+        "response": "I understand—trust is earned. Our company is regulated and insured, and I can provide documentation on how your information is protected."
+      }
+    ],
+    "proof_elements": [
+      "Payment security certificates",
+      "Regulatory compliance documents",
+      "Alternative payment options",
+      "Customer testimonials about safe payments"
+    ],
+    "variations": [
+      "I don't give out my bank info",
+      "Is this safe?",
+      "Can I pay another way?",
+      "I had my identity stolen before"
+    ]
   }
 ]

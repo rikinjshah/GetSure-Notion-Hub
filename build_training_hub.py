@@ -10,14 +10,17 @@ import time
 from pathlib import Path
 from typing import Dict, List, Any, Optional
 from notion_client import Client
+from notion_client_utils import NotionClientUtils
 
 class TrainingHubBuilder:
     def __init__(self, config_path: str = "content/config.json"):
         self.content_dir = Path("content")
         self.config = self.load_config(config_path)
-        
-        # Initialize Notion client
-        self.notion = Client(auth=self.config["notion"]["token"])
+        # Use NotionClientUtils for all Notion API operations
+        self.notion_utils = NotionClientUtils(
+            token=self.config["notion"]["token"],
+            settings=self.config["settings"]
+        )
         self.parent_page_id = self.config["notion"]["parent_page_id"]
         
         # Load all schemas and data
@@ -84,8 +87,7 @@ class TrainingHubBuilder:
             max_blocks = self.config["settings"]["max_blocks_per_page"]
             page_data["children"] = content[:max_blocks]
             
-        response = self.notion.pages.create(**page_data)
-        return response["id"]
+        return self.notion_utils.create_page(title, parent_id, icon, cover, content)
     
     def create_database(self, title: str, parent_id: str, properties: Dict, 
                        icon: str = None, cover: str = None) -> str:
@@ -102,8 +104,7 @@ class TrainingHubBuilder:
         if cover and self.config["settings"]["enable_covers"]:
             database_data["cover"] = {"external": {"url": cover}}
             
-        response = self.notion.databases.create(**database_data)
-        return response["id"]
+        return self.notion_utils.create_database(title, parent_id, properties, icon, cover)
     
     def add_to_database(self, database_id: str, properties: Dict, 
                        content: List[Dict] = None, icon: str = None, 
@@ -124,8 +125,7 @@ class TrainingHubBuilder:
             max_blocks = self.config["settings"]["max_blocks_per_page"]
             page_data["children"] = content[:max_blocks]
             
-        response = self.notion.pages.create(**page_data)
-        return response["id"]
+        return self.notion_utils.add_to_database(database_id, properties, content, icon, cover)
     
     def parse_rich_text(self, text: str) -> List[Dict]:
         """Parse text with markdown-style formatting"""
@@ -241,7 +241,7 @@ class TrainingHubBuilder:
                         }
                     })
         
-        return blocks
+        return self.notion_utils.convert_content_to_blocks(blocks, max_blocks)
     
     def convert_markdown_to_blocks(self, markdown_content: str, 
                                   max_blocks: int = None) -> List[Dict]:
@@ -336,7 +336,7 @@ class TrainingHubBuilder:
             
             i += 1
         
-        return blocks
+        return self.notion_utils.convert_content_to_blocks(blocks, max_blocks)
     
     def create_main_hub(self) -> str:
         """Create the main training hub page from config"""
